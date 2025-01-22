@@ -59,5 +59,5 @@
 [Infrastructure Factors Affecting National Park Visitation](https://github.com/aragonanalytics/portfolio/blob/6dbc85657ad57ef051091762581eb7fae0dd4e8e/nps_project/Infrastructure%20Factors%20Affecting%20National%20Park%20Visitation.pdf)<br>
 
 ### Dashboards
-[Income vs Commute in Colorado](https://haproxy-traffic-splitter/views/IncomevsCommuteinColorado/IncomevsCommuteinColorado?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)<br>
+[Income vs Commute in Colorado](https://public.tableau.com/app/profile/amy.aragon/viz/IncomevsCommuteinColorado/IncomevsCommuteinColorado)<br>
 [National Park Infrastructure and Visitation](https://public.tableau.com/app/profile/amy.aragon/viz/NationalParkInfrastructure/Dashboard1)<br>
