@@ -57,7 +57,7 @@
 
 ### Projects
 [Infrastructure Factors Affecting National Park Visitation](https://github.com/aragonanalytics/portfolio/blob/6dbc85657ad57ef051091762581eb7fae0dd4e8e/nps_project/Infrastructure%20Factors%20Affecting%20National%20Park%20Visitation.pdf)<br>
-Characteristics of Most Popular Apps 
+[Characteristics of Most Popular Apps](https://github.com/aragonanalytics/portfolio/blob/d7524b1ed924716b4921c9f76aa6c06175600b35/projects/Most%20Popular%20Mobile%20Apps.ipynb)<br>
 Exploratory Analysis of Appointment No-Shows 
 Data Wrangling: Visitation and Weather Data 
 A/B Testing 
