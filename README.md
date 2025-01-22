@@ -1,4 +1,6 @@
 # Data Analyst
+### About Me
+I'm an intellectually curious data analytics professional with a background in healthcare and disability claims processing, currently working for the federal government. I am skilled in data management, data wrangling, statistical analysis, data visualization, project and change management, and design thinking. My background as a former speech-language pathologist is a unique strength and has given me a passion for accessibility and tailoring all communication to my audience's needs.
 
 ### Education
 **Bachelor of Science in Data Analytics**<br>
