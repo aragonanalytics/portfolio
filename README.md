@@ -58,7 +58,7 @@
 ### Projects
 [Infrastructure Factors Affecting National Park Visitation](https://github.com/aragonanalytics/portfolio/blob/6dbc85657ad57ef051091762581eb7fae0dd4e8e/nps_project/Infrastructure%20Factors%20Affecting%20National%20Park%20Visitation.pdf)<br>
 [Characteristics of Most Popular Apps](https://github.com/aragonanalytics/portfolio/blob/d7524b1ed924716b4921c9f76aa6c06175600b35/projects/Most%20Popular%20Mobile%20Apps.ipynb)<br>
-A/B Testing<br>
+[A/B Testing](https://github.com/aragonanalytics/portfolio/blob/db121c92198905945d039d7129945a44b9513846/projects/Analyze_ab_test_results_notebook_new.ipynb)<br>
 [Exploratory Analysis of Appointment No-Shows](https://github.com/aragonanalytics/portfolio/blob/9b6a6595d75e55ce09df00246716d697df6bdf3d/projects/Investigate_a_Dataset.ipynb)<br>
 [Data Wrangling: Visitation and Weather Data](https://github.com/aragonanalytics/portfolio/blob/ff6b65bc761c89584194d49ed26038c01e4e1ce3/projects/Data_Wrangling_Project_Starter.ipynb)<br>
 
