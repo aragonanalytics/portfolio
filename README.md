@@ -60,4 +60,4 @@
 
 ### Dashboards
 [Income vs Commute in Colorado](https://haproxy-traffic-splitter/views/IncomevsCommuteinColorado/IncomevsCommuteinColorado?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)<br>
-[National Park Infrastructure and Visitation](https://haproxy-traffic-splitter/views/NationalParkInfrastructure/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)<br>
+[National Park Infrastructure and Visitation](https://public.tableau.com/app/profile/amy.aragon/viz/NationalParkInfrastructure/Dashboard1)<br>
