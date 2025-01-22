@@ -57,7 +57,12 @@
 
 ### Projects
 [Infrastructure Factors Affecting National Park Visitation](https://github.com/aragonanalytics/portfolio/blob/6dbc85657ad57ef051091762581eb7fae0dd4e8e/nps_project/Infrastructure%20Factors%20Affecting%20National%20Park%20Visitation.pdf)<br>
+Characteristics of Most Popular Apps 
+Exploratory Analysis of Appointment No-Shows 
+Data Wrangling: Visitation and Weather Data 
+A/B Testing 
 
-### Dashboards
+
+### Visualizations
 [Income vs Commute in Colorado](https://public.tableau.com/app/profile/amy.aragon/viz/IncomevsCommuteinColorado/IncomevsCommuteinColorado)<br>
 [National Park Infrastructure and Visitation](https://public.tableau.com/app/profile/amy.aragon/viz/NationalParkInfrastructure/Dashboard1)<br>
