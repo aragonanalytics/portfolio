@@ -4,7 +4,7 @@ I'm an intellectually curious data analytics professional with a background in h
 
 ### Education
 **Bachelor of Science in Data Analytics**<br>
-<em>Western Governor's University | January 2025</em></p>
+<em>Western Governor's University | January 2025</em>
 
 **Master of Science in Speech and Hearing Science**<br>
 <em>University of North Carolina at Chapel Hill | May 2019</em>
